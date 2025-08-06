@@ -219,7 +219,7 @@ def main():
     if not api_key:
         print("❌ Error: Please set RAPIDAPI_KEY environment variable")
         print("Example: export RAPIDAPI_KEY='your_actual_api_key_here'")
-        print("\n🔗 Get your API key from: https://rapidapi.com/hub")
+        print("\n🔗 Get your API key from: https://rapidapi.com/cavsn/api/twitch-api8")
         return
     
     # Initialize analytics tool

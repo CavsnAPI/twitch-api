@@ -45,7 +45,7 @@ pip install twitch-api-client
 
 First, you need to subscribe to the Twitch API on RapidAPI:
 
-1. Visit the [Twitch API on RapidAPI](https://rapidapi.com/hub)
+1. Visit the [Twitch API on RapidAPI](https://rapidapi.com/cavsn/api/twitch-api8)
 2. Subscribe to the API
 3. Copy your RapidAPI key from the dashboard
 
@@ -225,8 +225,8 @@ pytest tests/
 
 ## 🔗 Links
 
-- **RapidAPI Twitch API**: [Subscribe Here](https://rapidapi.com/hub)
-- **Documentation**: [Full API Documentation](https://rapidapi.com/hub)
+- **RapidAPI Twitch API**: [Subscribe Here](https://rapidapi.com/cavsn/api/twitch-api8)
+- **Documentation**: [Full API Documentation](https://rapidapi.com/cavsn/api/twitch-api8)
 - **GitHub Repository**: [Source Code](https://github.com/cavsn/twitch-api-client)
 - **Issues**: [Report Issues](https://github.com/cavsn/twitch-api-client/issues)
 
@@ -242,7 +242,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 If you encounter any issues or have questions:
 
-1. Check the [documentation](https://rapidapi.com/hub)
+1. Check the [documentation](https://rapidapi.com/cavsn/api/twitch-api8)
 2. Search existing [issues](https://github.com/cavsn/twitch-api-client/issues)
 3. Create a new issue if needed
 

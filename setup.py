@@ -23,7 +23,7 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
-        "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.11",   
     ],
     python_requires=">=3.7",
     install_requires=[
@@ -41,6 +41,6 @@ setup(
     project_urls={
         "Bug Reports": "https://github.com/cavsn/twitch-api-client/issues",
         "Source": "https://github.com/cavsn/twitch-api-client",
-        "RapidAPI": "https://rapidapi.com/hub",
+        "RapidAPI": "https://rapidapi.com/cavsn/api/twitch-api8",
     },
 ) 
